@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tashtemirlan&label=Profile%20views&color=0e75b6&style=flat" alt="tashtemirlan" /> </p>
 
-<h3 align="left">Total user views</h3>
+<h3 align="left">My achievements</h3>
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tashtemirlan" alt="tashtemirlan" /></a> </p>
 
 
