@@ -92,5 +92,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tashtemirlan&show_icons=true&theme=zenburn" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tashtemirlan&show_icons=true&theme=noctis_minimus" alt="GitHub Stats" />
 </p>
