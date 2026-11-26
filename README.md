@@ -24,7 +24,7 @@
   My love for <b>math</b> and <b>Go</b> fuels my problem-solving approach, allowing me to create optimized and scalable solutions.  
   I enjoy bringing ideas to life through mobile and backend development, constantly pushing boundaries to build something incredible. 🚀  
   <br><br>
-  🌍 Check out my portfolio: <a href="https://tashtemirlan.github.io/teit_corp/" target="_blank"><b>tashtemirlan.github.io/teit_corp</b></a>
+  🌍 Check out my portfolio: <a href="https://teit.dev" target="_blank"><b>teit.dev</b></a>
 </p>
 
 <h2 align="center">🚀 Recent Projects</h2>
