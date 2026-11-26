@@ -1,21 +1,14 @@
 <h1 align="center">Hi there, I'm Temirlan Tashtanov 👋</h1>
 
 <p align="center">
-  <b>💙 Flutter | Dart | Go | Math Enthusiast 💙</b>
+  <b>💙 Senior Flutter Engineer | Dart | Go | Math Enthusiast 💙</b>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 <p align="center">
@@ -33,22 +26,6 @@
   <br><br>
   🌍 Check out my portfolio: <a href="https://tashtemirlan.github.io/teit_corp/" target="_blank"><b>tashtemirlan.github.io/teit_corp</b></a>
 </p>
-
-
-
----
-
-
-<h2 align="center">🏆 My Achievements</h2>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-sigma-one.vercel.app/?username=tashtemirlan&row=2&column=4&theme=nord&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
 
 <h2 align="center">🚀 Recent Projects</h2>
 
